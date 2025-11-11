@@ -1,13 +1,13 @@
 <!-- 💫 Professional & Enhanced GitHub Profile README for Preethi Hatui -->
 
-<!-- Header Animation -->
+<!-- Header Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Preethi+Hatui;Cloud+%26+DevOps+Explorer+☁️;Cybersecurity+Learner+🔐;Tech+Enthusiast+💻" alt="Typing SVG" />
 </p>
 
 <!-- Decorative Cloud Animation -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHViY3Z5cmJ2bWhmNzR6Y3A3dTFwNzdwbnpwbzYzMnp2cjZ6Zmg2bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wPOa9YxP7XK7O/giphy.gif" width="150" alt="Cloud Animation"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNmZnN2dTg3eWRhYWYyNmViY3RzM3MxYW44c3dxZGg3b3pmb2s1ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yYSSBtDgbbRzq/giphy.gif" width="140" alt="Cloud Animation"/>
 </p>
 
 <h2 align="center">☁️ Cloud & DevOps Explorer | 🔐 Cybersecurity Learner | 💻 Passionate Technologist</h2>
@@ -16,17 +16,28 @@
 
 ### ✨ About Me  
 
+<table>
+<tr>
+<td width="60%">
+
 💡 Deeply passionate about **Cloud technologies**, **DevOps automation**, and **Cybersecurity**.  
 🚀 Focused on building systems that are **secure**, **scalable**, and **reliable**.  
 🌱 Currently exploring **AWS**, **Linux**, and **Cloud Security Fundamentals**.  
-🤝 Open to **collaborations** and continuous learning in tech.  
+🤝 Open to **collaborations**, continuous learning, and tech innovation.  
+
+</td>
+<td width="40%" align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250" alt="Female Developer Working"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,java,linux,postgresql" />
+  <img src="https://skillicons.dev/icons?i=aws,java,linux,postgresql,bash" />
   <img src="https://cdn-icons-png.flaticon.com/512/906/906347.png" width="48" alt="Cybersecurity Icon"/>
 </p>
 
@@ -38,14 +49,14 @@
   • <b>OS:</b> Linux  
 </p>
 
-<!-- Floating Cloud Divider -->
+<!-- Gradient Divider -->
 <p align="center">
   <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png" width="80%" alt="divider"/>
 </p>
 
-<!-- Cloud GIF for visual engagement -->
+<!-- Professional Tech Illustration -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ltcG51NnV5b2ZrbHk3c3IzNHNhajN0a2I4ZDF2MW1qMTBtdDR1cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif" width="220" alt="Cloud Computing Animation"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXE3NzdjZ3Q1Z3lwZ2l1c2lqczN6MWZkc2Fyc2NnZ2p5bDlmZXV6aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif" width="220" alt="Cloud Animation"/>
 </p>
 
 ---
@@ -67,25 +78,17 @@
 ### 👩‍💻 Keep Going  
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG95Z2h5d3Zob2djNHh3Z2x3dTVia2RybGVpZ29pajV6ZzNjOGtqbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="280" alt="Female Tech GIF"/>
+  <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="300" alt="Female Developer Animation"/>
 </p>
 
 <p align="center">
   <em>“Keep learning, keep growing, and keep building better.”</em> 🌱  
 </p>
 
-<!-- Floating Cloud Divider -->
+<!-- Footer Divider -->
 <p align="center">
   <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png" width="80%" alt="divider"/>
 </p>
-
----
-
-### 💫 Fun Fact  
-
-> ☁️ “The cloud is not just a place — it’s a mindset for innovation.”  
-
----
 
 <!-- Footer Animation -->
 <p align="center">
