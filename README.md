@@ -1,13 +1,13 @@
-<!-- 💫 Modern Professional GitHub Profile README for Preethi Hatui -->
+<!-- 💫 Professional & Enhanced GitHub Profile README for Preethi Hatui -->
 
 <!-- Header Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Preethi+Hatui;Cloud+%26+DevOps+Explorer+☁️;Cybersecurity+Learner+🔐;Tech+Enthusiast+💻" alt="Typing SVG" />
 </p>
 
-<!-- Header Icons / Divider -->
+<!-- Decorative Cloud Animation -->
 <p align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png" width="80%" alt="divider"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHViY3Z5cmJ2bWhmNzR6Y3A3dTFwNzdwbnpwbzYzMnp2cjZ6Zmg2bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wPOa9YxP7XK7O/giphy.gif" width="150" alt="Cloud Animation"/>
 </p>
 
 <h2 align="center">☁️ Cloud & DevOps Explorer | 🔐 Cybersecurity Learner | 💻 Passionate Technologist</h2>
@@ -16,25 +16,36 @@
 
 ### ✨ About Me  
 
-💡 Passionate about **Cloud technologies**, **DevOps automation**, and **Cybersecurity**.  
-🚀 I love optimizing systems to be **secure**, **scalable**, and **efficient**.  
-🌱 Currently exploring advanced **AWS services**, **Linux internals**, and **DevSecOps practices**.  
-🤝 Open to collaborations on cloud, automation, or security-related projects.  
+💡 Deeply passionate about **Cloud technologies**, **DevOps automation**, and **Cybersecurity**.  
+🚀 Focused on building systems that are **secure**, **scalable**, and **reliable**.  
+🌱 Currently exploring **AWS**, **Linux**, and **Cloud Security Fundamentals**.  
+🤝 Open to **collaborations** and continuous learning in tech.  
 
 ---
 
 ### 🛠️ Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,java,linux,git,github,docker,postgresql,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,java,linux,postgresql" />
+  <img src="https://cdn-icons-png.flaticon.com/512/906/906347.png" width="48" alt="Cybersecurity Icon"/>
 </p>
 
 <p align="center">
   <b>Languages:</b> Java, Shell Script  
   • <b>Cloud:</b> AWS  
-  • <b>DevOps:</b> Git, Docker, CI/CD  
-  • <b>Databases:</b> PostgreSQL  
-  • <b>Security:</b> Network & Cloud Fundamentals  
+  • <b>Database:</b> PostgreSQL  
+  • <b>Security:</b> Cybersecurity Fundamentals  
+  • <b>OS:</b> Linux  
+</p>
+
+<!-- Floating Cloud Divider -->
+<p align="center">
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png" width="80%" alt="divider"/>
+</p>
+
+<!-- Cloud GIF for visual engagement -->
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ltcG51NnV5b2ZrbHk3c3IzNHNhajN0a2I4ZDF2MW1qMTBtdDR1cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif" width="220" alt="Cloud Computing Animation"/>
 </p>
 
 ---
@@ -49,43 +60,30 @@
   <a href="https://www.linkedin.com/in/preethi-hatui-51a80021b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/preethihatui" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
 
 ---
 
-### 🌸 Keep Going  
+### 👩‍💻 Keep Going  
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280" alt="Tech Girl Coding"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG95Z2h5d3Zob2djNHh3Z2x3dTVia2RybGVpZ29pajV6ZzNjOGtqbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="280" alt="Female Tech GIF"/>
 </p>
 
 <p align="center">
   <em>“Keep learning, keep growing, and keep building better.”</em> 🌱  
 </p>
 
----
-
-### 📊 GitHub Stats  
-
+<!-- Floating Cloud Divider -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preethihatui&show_icons=true&theme=radical" height="160" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=preethihatui&theme=radical" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=preethihatui&bg_color=1a1b27&color=70a5fd&line=6A11CB&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png" width="80%" alt="divider"/>
 </p>
 
 ---
 
 ### 💫 Fun Fact  
 
-> 🌍 “Technology is best when it brings people together.” — Matt Mullenweg  
+> ☁️ “The cloud is not just a place — it’s a mindset for innovation.”  
 
 ---
 
