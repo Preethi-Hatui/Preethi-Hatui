@@ -1,27 +1,28 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="Banner Animation">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo.gif" width="100%" alt="Header Animation">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Preethi</h1>
-<h3 align="center">🌩️ Passionate about Cloud, DevOps & Continuous Learning 🌱</h3>
+<h3 align="center">☁️ Exploring Cloud & DevOps | 💻 Passionate about Technology & Continuous Learning 🌱</h3>
 
 ---
 
 ### ✨ About Me
-💻 Exploring **Cloud technologies** and **Web development**  
-🚀 Continuously improving my **skills in DevOps & Linux systems**  
-📚 Believe in *learning, evolving, and building meaningful solutions*  
-🌐 Currently diving deeper into **AWS Cloud** and **automation tools**
+💡 Focused on learning **Cloud technologies**, **Web systems**, and **secure development practices**.  
+🚀 Enjoys working with tools that make systems efficient and scalable.  
+🌱 Believes in *continuous learning and self-improvement through curiosity*.  
 
 ---
 
 ### 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,aws,linux" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,aws,linux,postgresql" />
+</p>
+
+<p align="center">
+  <b>Java</b> • <b>AWS Cloud</b> • <b>Linux</b> • <b>PostgreSQL</b>
 </p>
 
 ---
@@ -35,28 +36,24 @@
 
 ---
 
-### 🌈 Connect with Me
+### 📫 Contact Me
 <p align="center">
-  <a href="mailto:preety202@gmail.com">
+  <a href="mailto:preethihatui02@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-### ✨ Fun Corner
+### 🌈 Keep Going
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="180" alt="Coding GIF"/>
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="180" alt="Cloud GIF"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Motivational GIF"/>
   <br/><br/>
-  <em>“Keep learning, keep building ☁️💻”</em>
+  <em>“Keep learning, keep growing, and keep building better.”</em>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="Footer Animation">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer" alt="Footer Animation"/>
 </p>
