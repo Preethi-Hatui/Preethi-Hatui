@@ -1,18 +1,21 @@
-<!-- 🚀 Enhanced & Aesthetic GitHub Profile README for Preethi Hatui -->
+<!-- 💫 Enhanced & Aesthetic GitHub Profile README for Preethi Hatui -->
 
 <!-- Header Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00B4DB&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Preethi+Hatui;Cloud+%26+DevOps+Explorer+☁️;Cybersecurity+Learner+🔐;Tech+Enthusiast+💻" alt="Typing SVG" />
 </p>
 
-<!-- Decorative Cloud/AWS Animation -->
+<!-- Fun Cat Developer Animation -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG8yNm41b25waGh3eTI3YWRlbG00bTlpM3V4d2VzZXVtbWhzYXNzbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="140" alt="Cloud Animation"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGl4eDF1ZWh1M3Q2ZDhkcXk4MThkYW93dHdqNnp1czJkcGk1YzFhYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif" width="160" alt="Cat Coding Animation"/>
 </p>
 
 <h2 align="center" style="background: linear-gradient(90deg, #00B4DB, #0083B0); -webkit-background-clip: text; color: transparent;">☁️ Cloud & DevOps Explorer | 🔐 Cybersecurity Learner | 💻 Passionate Technologist</h2>
 
----
+<!-- Colorful Divider -->
+<p align="center">
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="80%" alt="colorful divider"/>
+</p>
 
 ### ✨ About Me  
 
@@ -27,17 +30,20 @@
 
 </td>
 <td width="40%" align="center">
-  <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="250" alt="Female Developer Working"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FqNGF6MXZja2FzYjJidGxndTF6cWFtcXl4eTBsMGE4YzNsZm5mYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="250" alt="Female Developer Working"/>
 </td>
 </tr>
 </table>
 
----
+<!-- Colorful Divider -->
+<p align="center">
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="80%" alt="colorful divider"/>
+</p>
 
 ### 🛠️ Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,java,linux,postgresql,bash,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws,java,linux,postgresql,bash" />
   <img src="https://cdn-icons-png.flaticon.com/512/906/906347.png" width="48" alt="Cybersecurity Icon"/>
 </p>
 
@@ -49,17 +55,10 @@
   • <b>OS:</b> Linux  
 </p>
 
-<!-- Gradient Divider -->
+<!-- Colorful Divider -->
 <p align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png" width="80%" alt="divider"/>
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="80%" alt="colorful divider"/>
 </p>
-
-<!-- Futuristic Loading Animation -->
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJuc3phZnE5b3M3bzFhN2wwZ29xYzd6cmQxN2ptYmtqY3g1YWl0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9J7tdYltWyXIY/giphy.gif" width="200" alt="Tech Loading Animation"/>
-</p>
-
----
 
 ### 🌐 Connect With Me  
 
@@ -73,7 +72,10 @@
   </a>
 </p>
 
----
+<!-- Colorful Divider -->
+<p align="center">
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="80%" alt="colorful divider"/>
+</p>
 
 ### 👩‍💻 Keep Going  
 
@@ -87,7 +89,7 @@
 
 <!-- Footer Divider -->
 <p align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png" width="80%" alt="divider"/>
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="80%" alt="divider"/>
 </p>
 
 <!-- Footer Animation -->
